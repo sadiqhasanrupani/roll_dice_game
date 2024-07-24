@@ -1,0 +1,28 @@
+<svg width="154" height="154" viewBox="0 0 154 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="dice-5">
+<g id="dice-2" filter="url(#filter0_d_3_26)">
+<path d="M6 25C6 13.9543 14.9543 5 26 5H126C137.046 5 146 13.9543 146 25V125C146 136.046 137.046 145 126 145H26C14.9543 145 6 136.046 6 125V25Z" fill="#F0AE69"/>
+<path d="M51 115C51 123.284 44.2843 130 36 130C27.7157 130 21 123.284 21 115C21 106.716 27.7157 100 36 100C44.2843 100 51 106.716 51 115Z" fill="#F0AE69"/>
+<path d="M131 35C131 43.2843 124.284 50 116 50C107.716 50 101 43.2843 101 35C101 26.7157 107.716 20 116 20C124.284 20 131 26.7157 131 35Z" fill="#F0AE69"/>
+</g>
+<circle id="Ellipse 1" cx="116" cy="115" r="15" fill="#A67757"/>
+<circle id="Ellipse 5" cx="116" cy="75" r="15" fill="#A67757"/>
+<circle id="Ellipse 6" cx="36" cy="75" r="15" fill="#A67757"/>
+<circle id="Ellipse 2" cx="116" cy="35" r="15" fill="#A67757"/>
+<circle id="Ellipse 3" cx="36" cy="35" r="15" fill="#A67757"/>
+<circle id="Ellipse 4" cx="36" cy="115" r="15" fill="#A67757"/>
+</g>
+<defs>
+<filter id="filter0_d_3_26" x="0.7" y="0.7" width="152.6" height="152.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="1" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_3_26"/>
+<feOffset dx="1" dy="2"/>
+<feGaussianBlur stdDeviation="2.65"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.65098 0 0 0 0 0.466667 0 0 0 0 0.341176 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_26"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3_26" result="shape"/>
+</filter>
+</defs>
+</svg>
