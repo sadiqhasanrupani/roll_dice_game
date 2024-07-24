@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
             Color(0xFFa57555),
             Color(0xFFffe7d0),
             Color(0xFFfcf8ed),
-            //0xFDF8EC
           ],
         ),
       ),
