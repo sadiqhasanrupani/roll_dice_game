@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'app.dart';
+import 'package:roll_dice_game/app.dart';
 
 void main() {
   runApp(const App());
